@@ -1,0 +1,9 @@
+﻿  Huffman.c
+  HuffmanTest.c
+C:\Users\Administrator\source\repos\HofmanTree\HofmanTree\HuffmanTest.c(76,15): warning C4047: 'function': 'QUEUE_ITEM' differs in levels of indirection from 'BinTreePtr'
+C:\Users\Administrator\source\repos\HofmanTree\HofmanTree\HuffmanTest.c(76,15): warning C4024: 'Insert': different types for formal and actual parameter 2
+C:\Users\Administrator\source\repos\HofmanTree\HofmanTree\HuffmanTest.c(95,5): warning C4047: 'return': 'BinTreePtr' differs in levels of indirection from 'QUEUE_ITEM'
+C:\Users\Administrator\source\repos\HofmanTree\HofmanTree\HuffmanTest.c(90,20): warning C4047: 'initializing': 'BinTreePtr' differs in levels of indirection from 'QUEUE_ITEM'
+C:\Users\Administrator\source\repos\HofmanTree\HofmanTree\HuffmanTest.c(91,20): warning C4047: 'initializing': 'BinTreePtr' differs in levels of indirection from 'QUEUE_ITEM'
+  Generating Code...
+  HofmanTree.vcxproj -> C:\Users\Administrator\source\repos\HofmanTree\x64\Debug\HofmanTree.exe
